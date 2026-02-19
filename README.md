@@ -84,6 +84,12 @@
 </div>
 
 <br/>
+<h2 align="left">📈 Weekly Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugank-rai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+<br/>
 
 ---
 
