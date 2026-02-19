@@ -8,6 +8,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Crafting+Modern+React+Interfaces;Building+AcadBridge+%26+YugVault;Exploring+LLMs+%26+Node.js;Competitive+Coder+(DRACOX)" alt="Typing SVG" />
   </a>
 </div>
+<br/>
+
+<div align="center">
+  <a href="https://yugank-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</div>
+
 
 <br/>
 
